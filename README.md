@@ -34,3 +34,10 @@
 ```bash
 git clone https://github.com/amarsin22/AI-Email-Responder1.git
 cd AI-Email-Responder1
+```
+
+## 🏗 Workflow / Architecture
+
+User Input → Streamlit UI → LLM Handler → OpenAI API → JSON Output → Display Draft
+
+
