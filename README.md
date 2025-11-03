@@ -42,5 +42,6 @@ User Input → Streamlit UI → LLM Handler → OpenAI API → JSON Output → D
 
 ## 🧭 Architecture Diagram
 
-![AI Email Responder Architecture](diagram(1).png)
+![AI Email Responder Architecture](architecture.jpg)
+
 
