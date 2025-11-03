@@ -40,4 +40,7 @@ cd AI-Email-Responder1
 
 User Input → Streamlit UI → LLM Handler → OpenAI API → JSON Output → Display Draft
 
+## 🧭 Architecture Diagram
+
+![AI Email Responder Architecture](diagram(1).png)
 
